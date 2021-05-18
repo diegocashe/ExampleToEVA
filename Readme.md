@@ -1,0 +1,1 @@
+Este repositorio es utilizado para mostrar codigo de ejemplo en un curso de entidades del mundo real llevadas a la programacion, esto para darle una entrada al mundo de la POO a los estudiantes que miren el curso.

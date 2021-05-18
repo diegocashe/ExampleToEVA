@@ -20,9 +20,12 @@ namespace Examples
         {
             //este es un objeto que se basa(instancia) del modelo Persona 
             //new es una palabra reservada estandar para instanciar un objeto
-            var persona1 = new Persona('Pedro');
+            Persona persona1 = new Persona('Pedro');
             // creo otro objeto diferente
-            var persona2 = new Persona('Juan');
+            Persona persona2 = new Persona('Juan');
+
+            console.write(persona1.nombre) // => imprime Pedro 
+            console.write(persona2.nombre) // => imprime Juan 
         }
     }
 
