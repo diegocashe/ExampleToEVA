@@ -13,7 +13,6 @@ namespace Examples
         public string atributo3 { get; }
 
         // Este metodo se conoce como constructor y es el que instancia la clase para crear objetos
-        // La palabra 
         public EsUnaClase(decimal atributo1, DateTime atributo2, string atributo3)
         { 
             // la palabra reservada this identifica que se habla del ambito del objeto en que se utiliza.
